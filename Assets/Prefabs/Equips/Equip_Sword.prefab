@@ -46,11 +46,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d47deba12666f294da38cdf98a7dd8df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackRate: 0
-  attackDistance: 0
+  attackRate: 0.8
+  attackDistance: 1
   doesGatherResources: 0
   doesDealDamage: 1
   damage: 10
+  useStamina: 115
 --- !u!95 &5660000552918695752
 Animator:
   serializedVersion: 5
